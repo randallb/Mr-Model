@@ -1,0 +1,20 @@
+{
+  "name": "MrMVC"
+  , "description": "A simple MVC / class system for Express, and optionally Mongoose."
+  , "version": "0.0.1"
+  , "keywords": ["express", "mvc", "classes","mongoose"]
+  , "main": "./lib/mrmvc.js"
+  , "homepage": "http://randallb.github.com/mrmvc/"
+  , "author": "Randall Bennett"
+  , "repository": {
+    "type": "git"
+    , "url": "https://github.com/randallb/mrmvc.git"
+  }
+  , "licenses": [
+    { "type": "Apache-2.0"
+      , "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ]
+  , "devDependencies": { "express": "*" }
+}
+
